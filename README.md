@@ -1,2 +1,3 @@
 # PurpleCryptr
-File Locker, CryptoLocker
+File Locker, RansomWare Virus
+👁️
