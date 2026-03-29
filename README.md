@@ -1,2 +1,2 @@
 # PurpleCryptr
-Type: File Locker, Ransomware, Crypt0 Virus
+Type: `File Locker, Ransomware`
